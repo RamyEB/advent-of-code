@@ -1,5 +1,5 @@
 ### Link
-adventofcode.com
+https://adventofcode.com/
 
 ### What is Advent of Code
 
